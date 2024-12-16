@@ -48,6 +48,4 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 
    The main findings of the code can be found at the post on Medium available [here][(https://medium.com/@Xiaoping2024/cnn-for-image-classification-9b661e237503))
 
-### 5. Licensing, Authors, Acknowledgements, etc.
-
-    Data for coding project was provided by .
+   The dataset can be downloaded at https://drive.google.com/file/d/1Y_uFoAy84m-cUgJ5RqaK2Hayo0VdOiRY/view?usp=sharing
